@@ -1,5 +1,5 @@
 body {
-  background-image: url("gradient3.jpg");
+  background-color:lightgray;
   background-repeat: no-repeat;
   font-size: 13px;
   background-size: cover;
@@ -64,7 +64,7 @@ label {
 }
 
 .footer {
-  color: white;
+  color: black;
   font-size: 14px;
 }
 
